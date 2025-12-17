@@ -30,7 +30,7 @@ d. pizzas        : contains (pizza_id, pizza_type_id, size, price)
 - pizzas ↔ pizza_types → Linked via pizza_type_id
 - This relational structure ensures normalized data and efficient querying.
 -
-4. 🧮 SQL Queries & Insights
+4. 🧮 SQL Queries & Insights :
 Ran 13 business-focused SQL queries to extract insights, including:
 - Retrieve the total number of orders placed.
 - Calculate the total revenue generated from pizza sales.
